@@ -1,0 +1,113 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+		<profiles>
+			<profile name="default" current="true"/>
+		</profiles>
+	</head>
+	<body>
+		<category name="root">
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CE' PartName Updog [Rogue CE]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CG' PartName Updog [Rogue CG]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CN' PartName Updog [Rogue CN]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_LE' PartName Updog [Rogue LE]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_LG' PartName Updog [Rogue LG]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_LN' PartName Updog [Rogue LN]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_NE' PartName Updog [Rogue NE]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_NG' PartName Updog [Rogue NG]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_Rogue' PartName Updog [Rogue]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_00_Infiltrator' PartName Updog [Infiltrator]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_01_GracefulInfiltrator' PartName Updog [Graceful Infiltrator]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_02_TrickyInfiltrator' PartName Updog [Tricky Infiltrator]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_03_RuggedInfiltrator' PartName Updog [Rugged Infiltrator]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_00_Killer' PartName Updog [Killer]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_01_UnpredictableKiller' PartName Updog [Unpredictable Killer]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_02_TheKiller' PartName Updog [The Killer]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_03_ContemptibleKiller' PartName Updog [Contemptible Killer]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_00_Ninja' PartName Updog [Ninja]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_01_ShadowNinja' PartName Updog [Shadow Ninja]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_02_BloodiedNinja' PartName Updog [Bloodied Ninja]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_03_LethalNinja' PartName Updog [Lethal Ninja]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_00_Professional' PartName Updog [Professional]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_01_UnequaledProfessional' PartName Updog [Unequaled Professional]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_02_TheProfessional' PartName Updog [The Professional]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_03_ContemptibleProfessional' PartName Updog [Contemptible Professional]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_00_Shot' PartName Updog [Shot]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_01_LongShot' PartName Updog [Long Shot]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_02_SureShot' PartName Updog [Sure Shot]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_03_TrueShot' PartName Updog [True Shot]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_00_Sniper' PartName Updog [Sniper]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_01_TranquilSniper' PartName Updog [Tranquil Sniper]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_02_OneShotSniper' PartName Updog [One Shot Sniper]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_03_DeadlySniper' PartName Updog [Deadly Sniper]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_00_Spy' PartName Updog [Spy]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_01_SwiftSpy' PartName Updog [Swift Spy]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_02_ContemptibleSpy' PartName Updog [Contemptable Spy]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_03_TrickySpy' PartName Updog [Tricky Spy]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_00_Stalker' PartName Updog [Stalker]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_01_DisturbedStalker' PartName Updog [Disturbed Stalker]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_02_ShadowStalker' PartName Updog [Shadow Stalker]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_03_RazoredStalker' PartName Updog [Razored Stalker]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_00_Survivor' PartName Updog [Survivor]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_01_ContemptibleSurvivor' PartName Updog [Contemptable Survivor]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_02_DisturbedSurvivor' PartName Updog [Disturbed Survivor]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_03_BloodiedSurvivor' PartName Updog [Bloodied Survivor]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Z_LegendaryHunter' PartName Updog [Leg Hunter]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Lobelia_ClassMods.Prefix_Assassin.Prefix_LegendaryKiller' PartName Updog [Leg Killer]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Lobelia_ClassMods.Prefix_Assassin.Prefix_LegendaryNinja' PartName Updog [Leg Ninja]</code>
+			<code profiles="default">set ItemNamePartDefinition'GD_Lobelia_ClassMods.Prefix_Assassin.Prefix_LegendarySniper' PartName Updog [Leg Sniper]</code>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CE' PartName Updog [Rogue CE]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CG' PartName Updog [Rogue CG]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_CN' PartName Updog [Rogue CN]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_LE' PartName Updog [Rogue LE]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_LG' PartName Updog [Rogue LG]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_LN' PartName Updog [Rogue LN]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_NE' PartName Updog [Rogue NE]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_NG' PartName Updog [Rogue NG]
+set ItemNamePartDefinition'GD_Aster_ClassMods.Prefix_Assassin.Prefix_Rogue_00_Rogue' PartName Updog [Rogue]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_00_Infiltrator' PartName Updog [Infiltrator]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_01_GracefulInfiltrator' PartName Updog [Graceful Infiltrator]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_02_TrickyInfiltrator' PartName Updog [Tricky Infiltrator]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Infiltrator_03_RuggedInfiltrator' PartName Updog [Rugged Infiltrator]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_00_Killer' PartName Updog [Killer]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_01_UnpredictableKiller' PartName Updog [Unpredictable Killer]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_02_TheKiller' PartName Updog [The Killer]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Killer_03_ContemptibleKiller' PartName Updog [Contemptible Killer]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_00_Ninja' PartName Updog [Ninja]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_01_ShadowNinja' PartName Updog [Shadow Ninja]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_02_BloodiedNinja' PartName Updog [Bloodied Ninja]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Ninja_03_LethalNinja' PartName Updog [Lethal Ninja]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_00_Professional' PartName Updog [Professional]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_01_UnequaledProfessional' PartName Updog [Unequaled Professional]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_02_TheProfessional' PartName Updog [The Professional]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Professional_03_ContemptibleProfessional' PartName Updog [Contemptible Professional]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_00_Shot' PartName Updog [Shot]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_01_LongShot' PartName Updog [Long Shot]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_02_SureShot' PartName Updog [Sure Shot]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Shot_03_TrueShot' PartName Updog [True Shot]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_00_Sniper' PartName Updog [Sniper]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_01_TranquilSniper' PartName Updog [Tranquil Sniper]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_02_OneShotSniper' PartName Updog [One Shot Sniper]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Sniper_03_DeadlySniper' PartName Updog [Deadly Sniper]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_00_Spy' PartName Updog [Spy]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_01_SwiftSpy' PartName Updog [Swift Spy]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_02_ContemptibleSpy' PartName Updog [Contemptable Spy]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Spy_03_TrickySpy' PartName Updog [Tricky Spy]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_00_Stalker' PartName Updog [Stalker]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_01_DisturbedStalker' PartName Updog [Disturbed Stalker]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_02_ShadowStalker' PartName Updog [Shadow Stalker]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Stalker_03_RazoredStalker' PartName Updog [Razored Stalker]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_00_Survivor' PartName Updog [Survivor]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_01_ContemptibleSurvivor' PartName Updog [Contemptable Survivor]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_02_DisturbedSurvivor' PartName Updog [Disturbed Survivor]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Survivor_03_BloodiedSurvivor' PartName Updog [Bloodied Survivor]
+set ItemNamePartDefinition'GD_ClassMods.Prefix_Assassin.Prefix_Z_LegendaryHunter' PartName Updog [Leg Hunter]
+set ItemNamePartDefinition'GD_Lobelia_ClassMods.Prefix_Assassin.Prefix_LegendaryKiller' PartName Updog [Leg Killer]
+set ItemNamePartDefinition'GD_Lobelia_ClassMods.Prefix_Assassin.Prefix_LegendaryNinja' PartName Updog [Leg Ninja]
+set ItemNamePartDefinition'GD_Lobelia_ClassMods.Prefix_Assassin.Prefix_LegendarySniper' PartName Updog [Leg Sniper]
